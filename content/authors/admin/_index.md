@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dima
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ахмад Мд Шешир
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ахмад
+last_name:  Мд Шешир
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Rudn
     url: https://openai.com/
 
 # Social network links
@@ -108,22 +108,29 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: front-end
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
+
+      - name: С++
+        description: ''
+        percent: 50
+        icon: circle-stack
+
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,8 +151,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: Russina
+    percent: 100
   - name: Portuguese
     percent: 25
 

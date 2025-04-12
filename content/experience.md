@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2025-10-24
 type: landing
 
 design:
@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: Ahmad Md Sheshir
     design:
       # Hugo date format
       date_format: 'January 2006'
