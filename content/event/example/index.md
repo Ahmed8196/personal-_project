@@ -36,15 +36,17 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-#links:
+links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: 'https://github.com/Ahmed8196/personal-_project'
+url_library: 'https://elibrary.ru/'
+url_scholar: https://scholar.google.com/
+url_ORCID: 'https://orcid.org/'
+url_edu: 'https://www.academia.edu/' 
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
